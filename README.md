@@ -28,3 +28,8 @@ Clone the repository and install the required libraries:
 git clone https://github.com/Yash3178/Titanic-EDA.git
 cd Titanic-EDA
 pip install -r requirements.txt
+### ✅ Day 2 Additions:
+- Summary statistics
+- Histograms & Boxplots
+- Correlation Matrix & Pairplot
+- Feature insights and observations
